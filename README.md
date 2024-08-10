@@ -1,4 +1,4 @@
-// LOGIN-PAGE
+# LOGIN-PAGE
 Create a user login page using HTML  tags and CSS rules
 CareerX - User Login Page
 This project is a simple user login page created using HTML and CSS. The page is designed to capture a user's login credentials (username and password) with a clean, modern interface.
@@ -22,7 +22,7 @@ A submit button to log in.
 A link for users to create an account if they are not registered.
 
 
-//HTML CODE
+// HTML CODE
 <!DOCTYPE html>
 <html>
 
@@ -65,7 +65,7 @@ Form Styling: The form fields and buttons are styled with padding, borders, and 
 Button Styling: The submit button is prominently displayed with a background color that stands out.
 
 
-//CSS CODE
+// CSS CODE
 
 /*login.css*/
 body {
