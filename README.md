@@ -14,16 +14,15 @@ User-friendly: Clear labels and placeholders guide the user to enter their crede
 Aesthetic design: The page uses soft colors and rounded corners for a clean and modern look.
 File Overview
 index.html
-This file contains the HTML code for the login page. The key components are:
-
+This file contains the HTML code for the login page. The key components are
 Title: The page is titled "CAREERX".
 Form: The form includes fields for the username and password, with required validation.
 Buttons and Links:
 A submit button to log in.
 A link for users to create an account if they are not registered.
-Code Sample
-html
-Copy code
+
+
+#HTML CODE
 <!DOCTYPE html>
 <html>
 
@@ -54,6 +53,7 @@ Copy code
 </body>
 
 </html>
+CSS Code
 login.css
 This file contains the CSS rules that style the login page. The styling includes:
 
@@ -61,8 +61,9 @@ Page Layout: The form is centred on the page with a minimal and clean background
 Form Styling: The form fields and buttons are styled with padding, borders, and colors to enhance usability.
 Button Styling: The submit button is prominently displayed with a background color that stands out.
 Code Sample
-css
-Copy code
+
+#CSS CODE
+
 /*login.css*/
 body {
     display: flex;
