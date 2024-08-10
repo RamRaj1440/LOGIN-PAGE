@@ -53,14 +53,17 @@ A link for users to create an account if they are not registered.
 </body>
 
 </html>
-CSS Code
+
+#CSS Code
+
 login.css
+
 This file contains the CSS rules that style the login page. The styling includes:
 
 Page Layout: The form is centred on the page with a minimal and clean background.
 Form Styling: The form fields and buttons are styled with padding, borders, and colors to enhance usability.
 Button Styling: The submit button is prominently displayed with a background color that stands out.
-Code Sample
+
 
 #CSS CODE
 
